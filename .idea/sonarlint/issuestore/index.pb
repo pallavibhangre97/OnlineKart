@@ -1,0 +1,31 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+r
+Bsrc/main/java/com/shopping/filters/ProductConfigurationFilter.java,1\a\1a98aa76f27342de080581d622022dc6f43427e6
+g
+7src/main/java/com/shopping/service/CustomerService.java,a\0\a02589cf5b3a8f5a9a404342f7b1716a3e1598c8
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+_
+/src/main/java/com/shopping/db/DBConnection.java,4\5\455f817b31f855460c8bb9fbfa5c917efb3a8b62
+R
+"src/main/webapp/login-register.jsp,0\2\02cb496cd19640a8740c6bc3f9a1482c9e06c6f1
+e
+5src/main/java/com/shopping/cart/ShoppingCartItem.java,7\3\7381341a316f461e446c9d3c94868fd572c5a3ca
+a
+1src/main/java/com/shopping/cart/ShoppingCart.java,4\6\462705ce6b2dd4f3db799bc8e2f4e8253e269928
+^
+.src/main/java/com/shopping/beans/Category.java,8\f\8fdde45dd548f162f9795d882cd98c656cc77bc1
+l
+<src/main/java/com/shopping/controller/DispatcherServlet.java,c\6\c63ad55cbe5b04bab96c29750e0dc30fc70a3e27
+f
+6src/main/java/com/shopping/service/ProductService.java,e\4\e429c892890e683b6e9ee5cc2db4b0f95110f4dc
+I
+src/main/webapp/login.jsp,8\5\85ee523d01e5e19376db640e846c91bbcb0a1c22
+H
+src/main/webapp/home.jsp,6\8\6853166b9553bb500860233db274f93560c021c5
+]
+-src/main/java/com/shopping/beans/Product.java,1\0\10afe35672f17454ad66d39db2bf344370d32248

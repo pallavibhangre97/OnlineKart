@@ -1,0 +1,11 @@
+com\shopping\beans\Category.class
+com\shopping\beans\Product.class
+com\shopping\service\CustomerService.class
+com\shopping\cart\ShoppingCart.class
+com\shopping\filters\ProductConfigurationFilter.class
+com\shopping\cart\ShoppingCartItem.class
+com\shopping\controller\DispatcherServlet.class
+com\shopping\service\ProductService.class
+com\shopping\beans\Manufacturer.class
+com\shopping\db\DBConnection.class
+com\shopping\beans\User.class

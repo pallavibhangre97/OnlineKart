@@ -1,0 +1,110 @@
+
+`
+java:S2441’"BMake "ShoppingCart" serializable or don't store it in the session.(µı“¯8¦˜÷ôÊ.
+p
+java:S1989ß"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ôû—ø
+H
+java:S1481¾"*Remove this unused "email" local variable.(ñ ¤Ğ8îÎçáÊ.
+F
+java:S1874—"/Remove this use of "Integer"; it is deprecated.(…ˆŸÔ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(çØß
+o
+java:S1989´"SHandle the following exception that could be thrown by "sendRedirect": IOException.(±¯Üşÿÿÿÿ
+?
+java:S1481N")Remove this unused "cart" local variable.(èèåÀ
+o
+java:S1989×"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ğ­Ãøÿÿÿÿ
+S
+java:S2589›"7Remove this expression which always evaluates to "true"(ò×Ô©úÿÿÿÿ
+w
+java:S1989H"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ãìÄ
+p
+java:S1989•"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¼Ÿ•Œ
+o
+java:S1989É"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¦‹³…ûÿÿÿÿ
+C
+java:S1481„",Remove this unused "postURL" local variable.(ğƒƒ·
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(óÁ¬¦
+w
+java:S1989v"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ãìÄ
+w
+java:S1989Q"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ãìÄ
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8¤ÃÌâÊ.
+Z
+java:S1854¿"<Remove this useless assignment to local variable "password".(ÀÜÜü8îÎçáÊ.
+R
+java:S1854„";Remove this useless assignment to local variable "postURL".(ğƒƒ·
+K
+java:S1481Ï"-Remove this unused "password" local variable.(ÀÜÜü8ÓÙùáÊ.
+^	java:S125Â"<This block of commented-out lines of code should be removed.(Ê™é½ùÿÿÿÿ8Ö¾æáÊ.
+j
+java:S1989Ç"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ä„·
+T
+java:S1854Á"6Remove this useless assignment to local variable "cs".(³á‡8îÎçáÊ.
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+T
+java:S1854Ñ"6Remove this useless assignment to local variable "cs".(³á‡8ÓÙùáÊ.
+Q
+java:S1161":Add the "@Override" annotation above this method signature(çØß
+M
+java:S1135["2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+R
+java:S1117‹"6Rename "hs" which hides the field declared at line 29.(ÁÑµûÿÿÿÿ
+N
+java:S1854E"8Remove this useless assignment to local variable "cart".(èèåÀ
+W
+java:S1854¾"9Remove this useless assignment to local variable "email".(ñ ¤Ğ8îÎçáÊ.
+p
+java:S1989©"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ÃÒÕ·
+Z
+java:S1854Ï"<Remove this useless assignment to local variable "password".(ÀÜÜü8ÓÙùáÊ.
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦³øüÿÿÿÿ
+o
+java:S1989ä"SHandle the following exception that could be thrown by "sendRedirect": IOException.(±¯Üşÿÿÿÿ
+f
+java:S2583Å"CChange this condition so that it does not always evaluate to "true"(ıü‡Ìûÿÿÿÿ8îÎçáÊ.
+f
+java:S2583Ô"CChange this condition so that it does not always evaluate to "true"(ıü‡Ìûÿÿÿÿ8İúıáÊ.
+o
+java:S1989Ù"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¢Æı¤ûÿÿÿÿ
+8
+java:S2129—"!Remove this "Integer" constructor(…ˆŸÔ
+N
+java:S1854N"8Remove this useless assignment to local variable "cart".(èèåÀ
+R
+java:S1117Õ"6Rename "hs" which hides the field declared at line 29.(ÁÑµûÿÿÿÿ
+w
+java:S1989}"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ãìÄ
+E
+java:S1481Ñ"'Remove this unused "cs" local variable.(³á‡8ÓÙùáÊ.
+U
+java:S1135Ò"2Complete the task associated to this TODO comment.(Šœºìúÿÿÿÿ8ÓÙùáÊ.
+?
+java:S1481E")Remove this unused "cart" local variable.(èèåÀ
+M
+java:S1905¬"*Remove this unnecessary cast to "Product".(À¾¯äùÿÿÿÿ8¦˜÷ôÊ.
+U
+java:S1135Â"2Complete the task associated to this TODO comment.(Ê™é½ùÿÿÿÿ8ãÍúáÊ.
+L
+java:S1905e"*Remove this unnecessary cast to "Product".(À¾¯äùÿÿÿÿ8¦˜÷ôÊ.
+^	java:S125Ò"<This block of commented-out lines of code should be removed.(Šœºìúÿÿÿÿ8ÓÙùáÊ.
+E
+java:S1481Á"'Remove this unused "cs" local variable.(³á‡8îÎçáÊ.
+U
+java:S1161 ":Add the "@Override" annotation above this method signature(‚¨íşÿÿÿÿ
+K
+java:S1481¿"-Remove this unused "password" local variable.(ÀÜÜü8îÎçáÊ.
+p
+java:S1989¨"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(´‰úÊ
+j
+java:S1989º"SHandle the following exception that could be thrown by "sendRedirect": IOException.(à­×É
+j
+java:S1989 "SHandle the following exception that could be thrown by "sendRedirect": IOException.(¿º–Â
+t
+java:S1989c"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(³¬†Ûúÿÿÿÿ
+>
+java:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

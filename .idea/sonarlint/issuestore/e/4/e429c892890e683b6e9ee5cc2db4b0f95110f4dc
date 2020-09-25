@@ -1,0 +1,54 @@
+
+>
+java:S1148j"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148Ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148Ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148§"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]	java:S125""<This block of commented-out lines of code should be removed.(›¾¡·ûÿÿÿÿ8¡òÇâÊ.
+n
+java:S1450"YRemove the "categories" field and declare it as a local variable in the relevant methods.(¢óÖ
+?
+java:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+u
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾†Úèÿÿÿÿÿ
+?
+java:S1148“"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+e
+java:S1192"IDefine a constant instead of duplicating this literal "C++ book" 5 times.(¼ÒÅ{8«ÁÃâÊ.
+>
+java:S1148r"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148µ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(²á’õ
+p
+java:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(†“¼Ò
+k
+java:S2095ş"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·ë¡ãøÿÿÿÿ
+?
+java:S1148å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148®"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+p
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(†“¼Ò
+N
+java:S1135!"2Complete the task associated to this TODO comment.(äÃ/8¡òÇâÊ.
+k
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·ë¡ãøÿÿÿÿ
+?
+java:S1148¼"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Y
+java:S1117"<Rename "products" which hides the field declared at line 16.(œÙ»Á8½Ü»âÊ.
+>
+java:S1148c"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

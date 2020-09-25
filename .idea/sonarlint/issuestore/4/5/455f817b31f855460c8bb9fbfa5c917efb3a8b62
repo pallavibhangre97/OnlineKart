@@ -1,0 +1,13 @@
+
+P
+java:S2209&"5Change this instance-reference to a static reference.(åû¿ˆÿÿÿÿÿ
+Z
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(É®£
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+7
+java:S3010"!Remove this assignment of "conn".(·Ïâò
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
